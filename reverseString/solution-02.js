@@ -8,7 +8,7 @@ function reverseStr(str) {
     return reversedStr;
 }
 
-/* 
+/*
 ES6 for of solution 
 
 const reverseStr = (str) => {
@@ -22,6 +22,4 @@ const reverseStr = (str) => {
 }
 
 */
-
-
 
